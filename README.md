@@ -13,3 +13,10 @@
 
 ### Miscellaneous
 (B400) [Code by Charles Petzold](http://www.charlespetzold.com/code/) - work up from one by land, two by sea all the way to a modern computer
+
+## Soft Skills
+
+### Work Mentality
+(B) Zen and the Art of Motorcycle Maintenance - gumption, gumption traps, quality
+
+(B) Surely You're Joking Mr. Feynman - curiosity, persistence
