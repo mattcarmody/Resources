@@ -14,6 +14,8 @@
 ### Miscellaneous
 (B400) [Code by Charles Petzold](http://www.charlespetzold.com/code/) - work up from one by land, two by sea all the way to a modern computer
 
+(V20) [How A CPU Works](https://www.youtube.com/watch?v=cNN_tTXABUA)
+
 (V36) [Simplicity Matters - Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0) - simple and easy are different things
 
 ## Language Specific
