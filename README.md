@@ -32,3 +32,7 @@
 (B400) [Zen and the Art of Motorcycle Maintenance](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance) - gumption, gumption traps, quality, attitude toward work
 
 (B350) [Surely You're Joking Mr. Feynman](https://en.wikipedia.org/wiki/Surely_You%27re_Joking,_Mr._Feynman!) - curiosity, persistence
+
+
+### Tools
+[Anki](https://apps.ankiweb.net/) - spaced repetition software, best if used daily
