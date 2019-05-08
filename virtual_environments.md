@@ -11,7 +11,8 @@ It also makes it easy to create dependency lists and install dependencies when I
 ### How I use it
 
 ##### Which tool?
-If I'm on Python3, I use venv. If I were on Python2, I'd use virtualenv.
+If I'm on Python3, I use venv. If I were on Python2, I'd use virtualenv. 
+I'm under the impression pyvenv is a wrapper around venv and is no longer encouraged.
 
 Basically, the Python devs built venv as part of the standard library with the intention of replacing virtualenv.
 
