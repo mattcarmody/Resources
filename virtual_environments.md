@@ -24,6 +24,7 @@ Then create a git repo and add the newly created env directory to .gitignore
 ##### Working in the virtual environment
     >> source env/bin/activate     # turn it on when I'm going to work on the project
     >> pip install django          # download packages one at a time
-    >> pip install -r 'requirements.txt'    # alternatively, use this to download 
-                                            # all requirements for a project at once
+    >> pip install -r requirements.txt    # alternatively, use this to download 
+                                          # all requirements for a project at once
+                                          # after you've saved the txt file
     >> deactivate                  # turn it off when I'm done working on the project
