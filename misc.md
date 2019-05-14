@@ -22,6 +22,10 @@
 
 (A15) [OOP in Python 3](https://realpython.com/python3-object-oriented-programming/)
 
+### Misc
+
+(A5) [History of user agent string (2008)](https://webaim.org/blog/user-agent-string-history/)
+
 ## Soft Skills
 
 ### Work Mentality
