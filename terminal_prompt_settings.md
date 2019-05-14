@@ -1,5 +1,7 @@
 Hey Team,
-I was setting up one of the laptops and thought I'd share some of my settings that I think can be useful to everyone. If you want to set up your terminal prompt to show more relevant information,especially while using Git, here are the advantages of my settings and instructions set up a machine like mine (for Linux). Attached is a screenshot of what my terminal prompt looks like.
+I was setting up one of the laptops and thought I'd share some of my settings that I think can be useful to everyone. If you want to set up your terminal prompt to show more relevant information,especially while using Git, here are the advantages of my settings and instructions set up a machine like mine (for Linux). Here is a screenshot of what my terminal prompt looks like.
+
+![fresh terminal prompt](/terminal_prompt_settings.png)
 
 #### Advantages
 
