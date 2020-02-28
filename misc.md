@@ -14,8 +14,6 @@
 
 (V36) [Simplicity Matters - Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0) - simple and easy are different things
 
-(A10) [How to get started with Continuous Integration](https://www.codementor.io/jeanpauldelimat/how-to-get-started-with-continuous-integration-u1r2oz9ao?utm_content=posts&utm_source=sendgrid&utm_medium=email&utm_term=post-u1r2oz9ao&utm_campaign=newsletter20190417)
-
 (V73) [Efficiency with Algorithms, Performance with Data Structures](https://www.youtube.com/watch?v=fHNmRkzxHWs)
 
 ### Python
@@ -23,6 +21,12 @@
 [PEP 8](https://www.python.org/dev/peps/pep-0008/) - coding conventions / style guide
 
 (A15) [OOP in Python 3](https://realpython.com/python3-object-oriented-programming/)
+
+## CI/CD
+
+(A10) [How to get started with Continuous Integration](https://www.codementor.io/jeanpauldelimat/how-to-get-started-with-continuous-integration-u1r2oz9ao?utm_content=posts&utm_source=sendgrid&utm_medium=email&utm_term=post-u1r2oz9ao&utm_campaign=newsletter20190417)
+
+(Tut30) [Continuous Integration With Python: An Introduction](https://realpython.com/python-continuous-integration/)
 
 ### Misc
 
