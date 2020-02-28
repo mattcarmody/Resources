@@ -24,6 +24,12 @@
 
 (A15) [OOP in Python 3](https://realpython.com/python3-object-oriented-programming/)
 
+#### Environment Tools
+
+(A15) [Python Virtual Environments Primer](https://realpython.com/python-virtual-environments-a-primer/)
+
+(A15) [Pipenv Guide](https://realpython.com/pipenv-guide/)
+
 #### CI/CD
 
 (A10) [How to get started with Continuous Integration](https://www.codementor.io/jeanpauldelimat/how-to-get-started-with-continuous-integration-u1r2oz9ao?utm_content=posts&utm_source=sendgrid&utm_medium=email&utm_term=post-u1r2oz9ao&utm_campaign=newsletter20190417)
