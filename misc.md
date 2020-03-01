@@ -36,6 +36,8 @@
 
 (T30) [Continuous Integration With Python: An Introduction](https://realpython.com/python-continuous-integration/)
 
+(A10) [Kubernetes? Docker? What is the difference?](https://blog.containership.io/k8svsdocker/)
+
 ### Misc
 
 (A5) [History of user agent string (2008)](https://webaim.org/blog/user-agent-string-history/)
