@@ -32,6 +32,8 @@
 
 (A15) [Pipenv Guide](https://realpython.com/pipenv-guide/)
 
+(A10) [Truthy and Falsy values in Python](https://www.freecodecamp.org/news/truthy-and-falsy-values-in-python/)
+
 #### CI/CD
 
 (A10) [How to get started with Continuous Integration](https://www.codementor.io/jeanpauldelimat/how-to-get-started-with-continuous-integration-u1r2oz9ao?utm_content=posts&utm_source=sendgrid&utm_medium=email&utm_term=post-u1r2oz9ao&utm_campaign=newsletter20190417)
@@ -43,6 +45,8 @@
 ### Misc
 
 (A5) [History of user agent string (2008)](https://webaim.org/blog/user-agent-string-history/)
+
+(A20) [An Introduction to Big Data Concepts and Terminology](https://www.digitalocean.com/community/tutorials/an-introduction-to-big-data-concepts-and-terminology)
 
 ## Soft Skills
 
