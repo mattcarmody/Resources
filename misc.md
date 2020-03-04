@@ -18,6 +18,8 @@
 
 (V15) [10 Programming Languages](https://www.youtube.com/watch?v=7bE2mI4ePeU)
 
+(A20) [A Comparison of NoSQL Database Management Systems and Models](https://www.digitalocean.com/community/tutorials/a-comparison-of-nosql-database-management-systems-and-models)
+
 ### Python
 
 (D) [PEP 8](https://www.python.org/dev/peps/pep-0008/) - coding conventions / style guide
