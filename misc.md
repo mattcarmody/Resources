@@ -32,6 +32,8 @@
 
 (V25) [Facts and Myths about Python names and values - Ned Batchelder](https://www.youtube.com/watch?v=_AEJHKGk9ns&t)
 
+(V37) [Modern Python Dictionaries A confluence of a dozen great ideas - Raymond Hettinger](https://www.youtube.com/watch?v=npw4s1QTmPg)
+
 #### Python Environment Tools
 
 (A15) [Python Virtual Environments Primer](https://realpython.com/python-virtual-environments-a-primer/)
