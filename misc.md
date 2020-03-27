@@ -10,6 +10,8 @@
 
 (V36) [Simplicity Matters - Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0) - simple and easy are different things
 
+(V28) [Big-O: How Code Slows as Data Grows - Ned Batchelder, PyCon 2018](https://www.youtube.com/watch?v=duvZ-2UK0fc)
+
 (V73) [Efficiency with Algorithms, Performance with Data Structures - Chandler Carruth](https://www.youtube.com/watch?v=fHNmRkzxHWs)
 
 #### Tools
@@ -27,6 +29,8 @@
 (A15) [OOP in Python 3](https://realpython.com/python3-object-oriented-programming/)
 
 (A10) [Truthy and Falsy values in Python](https://www.freecodecamp.org/news/truthy-and-falsy-values-in-python/)
+
+(V25) [Facts and Myths about Python names and values - Ned Batchelder, PyCon 2015](https://www.youtube.com/watch?v=_AEJHKGk9ns&t)
 
 #### Python Environment Tools
 
