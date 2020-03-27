@@ -34,6 +34,8 @@
 
 (V37) [Modern Python Dictionaries A confluence of a dozen great ideas - Raymond Hettinger](https://www.youtube.com/watch?v=npw4s1QTmPg)
 
+(V27) [Memory Management in Python - The Basics - Nina Zakharenko](https://www.youtube.com/watch?v=F6u5rhUQ6dU)
+
 #### Python Environment Tools
 
 (A15) [Python Virtual Environments Primer](https://realpython.com/python-virtual-environments-a-primer/)
