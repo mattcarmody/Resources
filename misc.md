@@ -26,15 +26,15 @@
 
 (A15) [OOP in Python 3](https://realpython.com/python3-object-oriented-programming/)
 
-#### Environment Tools
+(A10) [Truthy and Falsy values in Python](https://www.freecodecamp.org/news/truthy-and-falsy-values-in-python/)
+
+#### Python Environment Tools
 
 (A15) [Python Virtual Environments Primer](https://realpython.com/python-virtual-environments-a-primer/)
 
 (A15) [Pipenv Guide](https://realpython.com/pipenv-guide/)
 
-(A10) [Truthy and Falsy values in Python](https://www.freecodecamp.org/news/truthy-and-falsy-values-in-python/)
-
-#### CI/CD
+### CI/CD
 
 (A10) [How to get started with Continuous Integration](https://www.codementor.io/jeanpauldelimat/how-to-get-started-with-continuous-integration-u1r2oz9ao?utm_content=posts&utm_source=sendgrid&utm_medium=email&utm_term=post-u1r2oz9ao&utm_campaign=newsletter20190417)
 
@@ -47,6 +47,8 @@
 (A5) [History of user agent string (2008)](https://webaim.org/blog/user-agent-string-history/)
 
 (A20) [An Introduction to Big Data Concepts and Terminology](https://www.digitalocean.com/community/tutorials/an-introduction-to-big-data-concepts-and-terminology)
+
+(A5) [MD5 vs SHA-1 vs SHA-2 (a brief look at common hashes)](https://www.freecodecamp.org/news/md5-vs-sha-1-vs-sha-2-which-is-the-most-secure-encryption-hash-and-how-to-check-them/)
 
 ## Soft Skills
 
