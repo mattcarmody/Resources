@@ -32,6 +32,8 @@
 
 (V25) [Facts and Myths about Python names and values - Ned Batchelder](https://www.youtube.com/watch?v=_AEJHKGk9ns&t)
 
+V(32) [All Your Ducks In A Row: Data Structures in the Std Lib and Beyond - Brandon Rhodes](https://www.youtube.com/watch?v=fYlnfvKVDoM)
+
 (V37) [Modern Python Dictionaries A confluence of a dozen great ideas - Raymond Hettinger](https://www.youtube.com/watch?v=npw4s1QTmPg)
 
 (V27) [Memory Management in Python - The Basics - Nina Zakharenko](https://www.youtube.com/watch?v=F6u5rhUQ6dU)
