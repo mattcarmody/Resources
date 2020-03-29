@@ -38,6 +38,8 @@ V(32) [All Your Ducks In A Row: Data Structures in the Std Lib and Beyond - Bran
 
 (V27) [Memory Management in Python - The Basics - Nina Zakharenko](https://www.youtube.com/watch?v=F6u5rhUQ6dU)
 
+(V30) [Refactoring Python: Why and how to restructure your code - Brett Slatkin](https://www.youtube.com/watch?v=D_6ybDcU5gc)
+
 #### Python Environment Tools
 
 (A15) [Python Virtual Environments Primer](https://realpython.com/python-virtual-environments-a-primer/)
