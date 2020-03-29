@@ -46,6 +46,8 @@ V(32) [All Your Ducks In A Row: Data Structures in the Std Lib and Beyond - Bran
 
 ### CI/CD
 
+(V35) [Getting Started Testing - Ned Batchelder](https://www.youtube.com/watch?v=FxSsnHeWQBY)
+
 (A10) [How to get started with Continuous Integration](https://www.codementor.io/jeanpauldelimat/how-to-get-started-with-continuous-integration-u1r2oz9ao?utm_content=posts&utm_source=sendgrid&utm_medium=email&utm_term=post-u1r2oz9ao&utm_campaign=newsletter20190417)
 
 (T30) [Continuous Integration With Python: An Introduction](https://realpython.com/python-continuous-integration/)
