@@ -38,7 +38,7 @@ V(32) [All Your Ducks In A Row: Data Structures in the Std Lib and Beyond - Bran
 
 (V27) [Memory Management in Python - The Basics - Nina Zakharenko](https://www.youtube.com/watch?v=F6u5rhUQ6dU)
 
-(V30) [Refactoring Python: Why and how to restructure your code - Brett Slatkin](https://www.youtube.com/watch?v=D_6ybDcU5gc)
+(V30) [Refactoring Python: Why and how to restructure your code - Brett Slatkin](https://www.youtube.com/watch?v=D_6ybDcU5gc) - refactoring strategies and examples
 
 #### Python Environment Tools
 
@@ -48,7 +48,7 @@ V(32) [All Your Ducks In A Row: Data Structures in the Std Lib and Beyond - Bran
 
 ### CI/CD
 
-(V35) [Getting Started Testing - Ned Batchelder](https://www.youtube.com/watch?v=FxSsnHeWQBY)
+(V35) [Getting Started Testing - Ned Batchelder](https://www.youtube.com/watch?v=FxSsnHeWQBY) - overview of how to write unit tests, intended for novices to testing
 
 (A10) [How to get started with Continuous Integration](https://www.codementor.io/jeanpauldelimat/how-to-get-started-with-continuous-integration-u1r2oz9ao?utm_content=posts&utm_source=sendgrid&utm_medium=email&utm_term=post-u1r2oz9ao&utm_campaign=newsletter20190417)
 
