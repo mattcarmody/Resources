@@ -26,7 +26,7 @@
 
 (D) [PEP 8](https://www.python.org/dev/peps/pep-0008/) - coding conventions / style guide
 
-(V42) [Beyond PEP 8 -- Best practices for beautiful intelligible code - Raymond Hettinger](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+(V42) [Beyond PEP 8 -- Best practices for beautiful intelligible code - Raymond Hettinger](https://www.youtube.com/watch?v=wf-BqAjZb8M) - keep from being drawn into PEP8 tunnel vision and write Pythonic code
 
 (A15) [OOP in Python 3](https://realpython.com/python3-object-oriented-programming/)
 
