@@ -26,6 +26,8 @@
 
 (D) [PEP 8](https://www.python.org/dev/peps/pep-0008/) - coding conventions / style guide
 
+(V42) [Beyond PEP 8 -- Best practices for beautiful intelligible code - Raymond Hettinger](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+
 (A15) [OOP in Python 3](https://realpython.com/python3-object-oriented-programming/)
 
 (A10) [Truthy and Falsy values in Python](https://www.freecodecamp.org/news/truthy-and-falsy-values-in-python/)
