@@ -47,7 +47,9 @@ V(32) [All Your Ducks In A Row: Data Structures in the Std Lib and Beyond - Bran
 
 #### Python Environment Tools
 
-(A15) [Python Virtual Environments Primer](https://realpython.com/python-virtual-environments-a-primer/)
+(A15) [Python Virtual Environments Primer](https://realpython.com/python-virtual-environments-a-primer/) - keeping project packages separate
+
+(A30) [Intro to pyenv](https://realpython.com/intro-to-pyenv/) - installing and using multiple Python versions
 
 (A15) [Pipenv Guide](https://realpython.com/pipenv-guide/)
 
