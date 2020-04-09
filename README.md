@@ -7,7 +7,7 @@ Below is a curated collection of resources I've found helpful and worth noting.
 
 (B400) [Code by Charles Petzold](http://www.charlespetzold.com/code/) - work up from one by land, two by sea all the way to a modern computer
 
-(V41) [4 Programming Paradigms - Aja Hammerly](https://www.youtube.com/watch?v=cgVVZMfLjEI)
+(V41) [4 Programming Paradigms - Aja Hammerly](https://www.youtube.com/watch?v=cgVVZMfLjEI) - it's not all OOP out there
 
 (V20) [How A CPU Works](https://www.youtube.com/watch?v=cNN_tTXABUA)
 
