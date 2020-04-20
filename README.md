@@ -37,7 +37,7 @@ Below is a curated collection of resources I've found helpful and worth noting.
 
 (V25) [Facts and Myths about Python names and values - Ned Batchelder](https://www.youtube.com/watch?v=_AEJHKGk9ns&t)
 
-V(32) [All Your Ducks In A Row: Data Structures in the Std Lib and Beyond - Brandon Rhodes](https://www.youtube.com/watch?v=fYlnfvKVDoM)
+(V32) [All Your Ducks In A Row: Data Structures in the Std Lib and Beyond - Brandon Rhodes](https://www.youtube.com/watch?v=fYlnfvKVDoM)
 
 (V37) [Modern Python Dictionaries A confluence of a dozen great ideas - Raymond Hettinger](https://www.youtube.com/watch?v=npw4s1QTmPg)
 
@@ -62,6 +62,14 @@ V(32) [All Your Ducks In A Row: Data Structures in the Std Lib and Beyond - Bran
 (T30) [Continuous Integration With Python: An Introduction](https://realpython.com/python-continuous-integration/)
 
 (A10) [Kubernetes? Docker? What is the difference?](https://blog.containership.io/k8svsdocker/)
+
+### Courses
+
+Automate the Boring Stuff with Python - a practical intro to programming. By the end of the book a user can write scripts to automate daily tasks in a handful of domains.
+
+Codecademy - quick overview of language basics with plenty of practice problems to exercise the material. A basics course can be completed during a one week free trial.
+
+Khan Academy - algorithms TBD
 
 ### Misc
 
