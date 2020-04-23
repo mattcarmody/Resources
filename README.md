@@ -65,11 +65,11 @@ Below is a curated collection of resources I've found helpful and worth noting.
 
 ### Courses
 
-Automate the Boring Stuff with Python - a practical intro to programming. By the end of the book a user can write scripts to automate daily tasks in a handful of domains.
+[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - a practical intro to programming. By the end of the book a user can write scripts to automate daily tasks in a handful of domains.
 
-Codecademy - quick overview of language basics with plenty of practice problems to exercise the material. A basics course can be completed during a one week free trial.
+[Codecademy](https://www.codecademy.com/learn) - quick overview of language basics with plenty of practice problems to exercise the material. A basics course can be completed during a one week free trial.
 
-[Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms) - brief introduction to binary search, asymptotic notation, sorting algorithms, graphs and breadth-first search. Includes quizzes and Javascript exercises.
+[Khan Academy: CS Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) - brief introduction to binary search, asymptotic notation, sorting algorithms, graphs and breadth-first search. Includes quizzes and Javascript exercises.
 
 ### Misc
 
@@ -77,7 +77,7 @@ Codecademy - quick overview of language basics with plenty of practice problems 
 
 (A20) [An Introduction to Big Data Concepts and Terminology](https://www.digitalocean.com/community/tutorials/an-introduction-to-big-data-concepts-and-terminology)
 
-(A5) [MD5 vs SHA-1 vs SHA-2 (a brief look at common hashes)](https://www.freecodecamp.org/news/md5-vs-sha-1-vs-sha-2-which-is-the-most-secure-encryption-hash-and-how-to-check-them/)
+(A5) [MD5 vs SHA-1 vs SHA-2](https://www.freecodecamp.org/news/md5-vs-sha-1-vs-sha-2-which-is-the-most-secure-encryption-hash-and-how-to-check-them/) - a brief look at common hashes
 
 ## Soft Skills
 
