@@ -69,7 +69,7 @@ Automate the Boring Stuff with Python - a practical intro to programming. By the
 
 Codecademy - quick overview of language basics with plenty of practice problems to exercise the material. A basics course can be completed during a one week free trial.
 
-Khan Academy - algorithms TBD
+[Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms) - brief introduction to binary search, asymptotic notation, sorting algorithms, graphs and breadth-first search. Includes quizzes and Javascript exercises.
 
 ### Misc
 
