@@ -53,6 +53,10 @@ Below is a curated collection of resources I've found helpful and worth noting.
 
 (A15) [Pipenv Guide](https://realpython.com/pipenv-guide/)
 
+### Golang
+
+(V48) [The Why of Go - Carmen Andoh](https://www.youtube.com/watch?v=bmZNaUcwBt4) - providing context for why Go is the way it is
+
 ### CI/CD
 
 (V35) [Getting Started Testing - Ned Batchelder](https://www.youtube.com/watch?v=FxSsnHeWQBY) - overview of how to write unit tests, intended for novices to testing
