@@ -1,9 +1,11 @@
+# Resources
+
 A place for me to save programming related resources.
 Below is a curated collection of resources I've found helpful and worth noting.
 
-# Resources
+## Technical Material
 
-## Abstract Concepts
+### Abstract Concepts
 
 (B400) [Code by Charles Petzold](http://www.charlespetzold.com/code/) - work up from one by land, two by sea all the way to a modern computer
 
