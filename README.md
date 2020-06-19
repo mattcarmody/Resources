@@ -59,6 +59,8 @@ Below is a curated collection of resources I've found helpful and worth noting.
 
 (V48) [The Why of Go - Carmen Andoh](https://www.youtube.com/watch?v=bmZNaUcwBt4) - providing context for why Go is the way it is
 
+(V31) [Concurrency is Not Parallelism - Rob Pike](https://www.youtube.com/watch?v=cN_DpYBzKso) - explains the difference between the two and how they're related
+
 ### CI/CD
 
 (V35) [Getting Started Testing - Ned Batchelder](https://www.youtube.com/watch?v=FxSsnHeWQBY) - overview of how to write unit tests, intended for novices to testing
